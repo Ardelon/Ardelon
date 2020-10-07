@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm Ardelon.
 
-- 🔭 I’m currently working for Web Development.
+- 🔭 I’m currently working on Web Development and Web Apps.
 - 🌱 I’m currently learning geomatics (Msc)
 - 💬 Ask me about anything
 - 📫 How to reach me: [e-mail](mailto:akeskinw@gmail.com)
