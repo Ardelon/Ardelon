@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alihan</h1>
 <h3 align="center">A self taught web developer.</h3>
 
-I am a full stack developer specialized in Javascript technologies. Having experience with Node.js for backend, Vanillajs and React for Frontend, Redis for caching and pub/sub implementation, Mongo and Mysql for database. Extremely curious about communication technologies almost on every level. Careful about what is needed and eager to find out the best solutions applicable. Nerd like passion for documentation.
+I am a full stack developer specialized in Javascript technologies. Having experience with Node.js for backend, Vanillajs and React for Frontend, Redis for caching and pub/sub implementation, Mongo for database. Extremely curious about communication technologies almost on every level. Careful about what is needed and eager to find out the best solutions applicable. Nerd like passion for documentation.
 
 
 
