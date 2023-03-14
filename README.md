@@ -33,6 +33,4 @@ I am a full stack developer specialized in Javascript technologies. Having exper
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ardelon&" alt="ardelon" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ardelon&label=Profile%20views&color=0e75b6&style=flat" alt="ardelon" /> </p>
-
-<button >selam</button>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ardelon&label=Profile%20views&color=0e75b6&style=flat" alt="ardelon" /> </p
