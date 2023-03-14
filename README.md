@@ -35,4 +35,4 @@ I am a full stack developer specialized in Javascript technologies. Having exper
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ardelon&label=Profile%20views&color=0e75b6&style=flat" alt="ardelon" /> </p>
 
-<button onClick="() => {window.alert('selam')}">selam</button>
+<button >selam</button>
