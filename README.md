@@ -7,9 +7,9 @@ I am a full stack developer specialized in Javascript technologies. Having exper
 - 🔭 [Blog Hexa Apps](https://blog.hexaapps.net/home/)
 - 🔭 [IBB Eczane](https://eczane.ibb.istanbul/)
 - 🔭 [IBB Zaman Makinesi](https://zamanmakinesi.ibb.gov.tr/)
-- 🔭 [Mouse Events]([https://ardelon.github.io/visualize-events/])
-- 🔭 [Keyboard Events]([https://ardelon.github.io/keyboard-events/])
-- 🔭 [Element Slider]([https://ardelon.github.io/Element-Slider/])
+- 🔭 [Mouse Events](https://ardelon.github.io/visualize-events/)
+- 🔭 [Keyboard Events](https://ardelon.github.io/keyboard-events/)
+- 🔭 [Element Slider](https://ardelon.github.io/Element-Slider/)
 
 - 💬 Ask me about **Javascript and Web Technologies**
 
