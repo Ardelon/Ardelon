@@ -15,7 +15,7 @@ I am a full stack developer specialized in Javascript technologies. Experienced 
 -  **Database:** MongoDB
 
 
-## ⭐️ Published Projects
+## ⭐ Published Projects
 
 <table>
   <tbody>
@@ -24,15 +24,15 @@ I am a full stack developer specialized in Javascript technologies. Experienced 
       <td>Blog website that automatically create content with AI and publishes everyday and send daily newsletter.(Website)</td>
     </tr>
       <tr>
-      <td><a href="https://chromewebstore.google.com/detail/tab-tracker/effjhkgfakdenmlpfeadfcdofghpffki?hl=tr"><b>🚀 Tab Tracker</b></a></td>
+      <td><a href="https://chromewebstore.google.com/detail/tab-tracker/effjhkgfakdenmlpfeadfcdofghpffki?hl=tr"><b>🤖 Tab Tracker</b></a></td>
       <td>Chrome Extension application that counts website activity. (Chrome Extension)</td>
     </tr>
      <tr>
-      <td><a href="https://github.com/Ardelon/monitor-api-actions"><b>🚀 Monitor API Actions</b></a></td>
+      <td><a href="https://github.com/Ardelon/monitor-api-actions"><b>🔢 Monitor API Actions</b></a></td>
       <td>Public project that can checks if given urls are working or not. If does not working it sends an email. (POC Project)</td>
     </tr>
       <tr>
-      <td><a href="https://www.npmjs.com/package/ardelon-create-element"><b>🚀 Ardelon Create Element</b></a></td>
+      <td><a href="https://www.npmjs.com/package/ardelon-create-element"><b>📚 Ardelon Create Element</b></a></td>
       <td>NPM library that helps building UI with Javascript. (Library)</td>
     </tr>
   </tbody>
@@ -47,11 +47,11 @@ I am a full stack developer specialized in Javascript technologies. Experienced 
       <td>Istanbul Metropolitan Municipality map application. Similar to Google or Yandex maps backed with local government data. (Web GIS Application)</td>
     </tr>
       <tr>
-      <td><a href="https://eczane.ibb.istanbul/)"><b>🚀 Eczane İstanbul</b></a></td>
+      <td><a href="https://eczane.ibb.istanbul/)"><b>💊 Eczane İstanbul</b></a></td>
       <td>Istanbul Metropolitan Municipality map application for displaying pharmacies. (Web GIS Application)</td>
     </tr>
      <tr>
-      <td><a href="https://zamanmakinesi.ibb.gov.tr/"><b>🚀 Zaman Makinesi İstanbul</b></a></td>
+      <td><a href="https://zamanmakinesi.ibb.gov.tr/"><⏳ Zaman Makinesi İstanbul</b></a></td>
       <td>Istanbul Metropolitan Municipality map application for displaying old photos of the city.(Web GIS Application)</td>
     </tr>
       
