@@ -51,7 +51,7 @@ I am a full stack developer specialized in Javascript technologies. Experienced 
       <td>Istanbul Metropolitan Municipality map application for displaying pharmacies. (Web GIS Application)</td>
     </tr>
      <tr>
-      <td><a href="https://zamanmakinesi.ibb.gov.tr/"><⏳ Zaman Makinesi İstanbul</b></a></td>
+      <td><a href="https://zamanmakinesi.ibb.gov.tr/">⏳ Zaman Makinesi İstanbul</b></a></td>
       <td>Istanbul Metropolitan Municipality map application for displaying old photos of the city.(Web GIS Application)</td>
     </tr>
       
