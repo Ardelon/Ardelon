@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Alihan</h1>
 <h3 align="center">A self taught web developer.</h3>
 
+
+[
+![Website](https://img.shields.io/badge/Website-CC5500?style=for-the-badge&logo=&logoColor=white)](https://100times.blog/) [ ![LinkedIn](https://img.shields.io/badge/LinkedIn-4682B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alihankeskin/) [![Medium](https://img.shields.io/badge/Medium-555555?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@akeskinw)
+
+
+
 I am a full stack developer specialized in Javascript technologies. Having experience with Node.js for backend, Vanillajs and React for Frontend, Redis for caching and pub/sub implementation, Mongo for database. Extremely curious about communication technologies almost on every level. Careful about what is needed and eager to find out the best solutions applicable. Nerd like passion for documentation.
 
 - 🔭 [Chrome Extension Url Counter](https://github.com/Ardelon/chrome-extension-url-counter)
