@@ -38,7 +38,7 @@ I am a full stack developer specialized in Javascript technologies. Experienced 
   </tbody>
 </table>
 
-## ⭐️ Joined Developing
+## 💪 Joined Developing
 
 <table>
   <tbody>
@@ -54,7 +54,6 @@ I am a full stack developer specialized in Javascript technologies. Experienced 
       <td><a href="https://zamanmakinesi.ibb.gov.tr/">⏳ Zaman Makinesi İstanbul</b></a></td>
       <td>Istanbul Metropolitan Municipality map application for displaying old photos of the city.(Web GIS Application)</td>
     </tr>
-      
   </tbody>
 </table>
 
