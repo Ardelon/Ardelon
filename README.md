@@ -10,7 +10,7 @@ I am a full stack developer specialized in Javascript technologies. Experienced 
 ## 👨‍💻 Professional Skills
 
 -  **Language:**  JavaScript, Node.js, TypeScript
--  **Framework:** React
+-  **Framework:** React, NextJS
 -  **DevOps:**   Redis, bash, PM2, Nginx
 -  **Library:** OpenAI, Webpack, MaplibreGL, socket.io, express.js, nodemailer, react router dom, Mongoose
 -  **Database:** MongoDB
