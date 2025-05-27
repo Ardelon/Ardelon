@@ -21,8 +21,8 @@ I am a full stack developer specialized in Javascript technologies. Experienced 
 <table>
   <tbody>
     <tr>
-      <td><a href="https://100times.blog/"><b>🚀 100 Times Blog</b></a></td>
-      <td>Blog website that automatically create content with AI and publishes everyday and send daily newsletter.(Website)</td>
+      <td><a href="https://gerisayim.co/"><b>🕑 gerisayim.co</b></a></td>
+      <td>App website that you can track important events and create your own. (Website)</td>
     </tr>
       <tr>
       <td><a href="https://chromewebstore.google.com/detail/tab-tracker/effjhkgfakdenmlpfeadfcdofghpffki?hl=tr"><b>🤖 Tab Tracker</b></a></td>
